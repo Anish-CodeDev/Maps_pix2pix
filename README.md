@@ -53,7 +53,7 @@ Here's the output given by this model: https://github.com/Anish-CodeDev/Maps_pix
 
 ## Acknowledgments
 
-* Inspired by the Pix2Pix cGAN paper: [Link to paper if applicable]
+* Inspired by the Pix2Pix cGAN paper: https://arxiv.org/pdf/1611.07004
 * I refered https://www.tensorflow.org/tutorials/generative/pix2pix for the implementation of this model.
 * Uses libraries: TensorFlow
 * Dataset source: http://efrosgans.eecs.berkeley.edu/pix2pix/datasets/maps.tar.gz
